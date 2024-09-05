@@ -19,6 +19,7 @@ else if (current_path==="/Contact")
   {
     root.render(<Contact/>)
   }
+  // esle part
   else
   {
     root.render(<h1>404 page not found</h1>)
