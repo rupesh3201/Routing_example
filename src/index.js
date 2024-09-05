@@ -9,6 +9,7 @@ const root = ReactDOM .createRoot(document.getElementById('root'));
 if (current_path==="/") {
   root.render(<Home/>)
 }
+// for about
 else if (current_path==="/About")
 {
   root.render(<About/>)
