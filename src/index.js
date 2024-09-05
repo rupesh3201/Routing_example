@@ -5,6 +5,7 @@ import Contact from './Contact';
 const current_path = window.location.pathname
 const root = ReactDOM .createRoot(document.getElementById('root'));
 
+//for home
 if (current_path==="/") {
   root.render(<Home/>)
 }
