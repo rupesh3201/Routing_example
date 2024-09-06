@@ -5,7 +5,7 @@ function Navbar()
 {
     return (
        <div className="navbar">
-        kuch meetha ho jaye
+      kuch meetha ho jaye
 
     <div className="navbar_links ">
        <a href="/"> Home</a>
