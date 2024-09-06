@@ -9,6 +9,7 @@ function Navbar()
             <a href="/"> Home </a>
             {/* added home */}
             <a href="/About"> About </a>
+            {/* added about */}
             <a href="/Contact"> Contact </a>
 
         </div>
