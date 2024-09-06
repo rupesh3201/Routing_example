@@ -1,6 +1,10 @@
-.navbar{
+.navbarlinks_con{
     background-color: rgb(153, 94, 208);
     color: azure;
     margin: 0px;
     padding: 20px;
+}
+.navnbar_con{
+    display: flex;
+
 }
