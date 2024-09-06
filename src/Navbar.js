@@ -7,10 +7,10 @@ function Navbar()
        <div className="navbar">
         kuch meetha ho jaye
 
-        <div className="navbar_links">
+    <div className="navbar_links ">
        <a href="/"> Home</a>
-       <a href="/About"> About</a>
-       <a href="/Contact"> Contact</a>
+       <a href="/About" > About</a>
+       <a href="/Contact" > Contact</a>
        </div>
        </div>
 
