@@ -11,6 +11,7 @@ function Navbar()
             <a href="/About"> About </a>
             {/* added about */}
             <a href="/Contact"> Contact </a>
+            {/* added  Contact */}
 
         </div>
     )
