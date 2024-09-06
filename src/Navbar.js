@@ -7,6 +7,10 @@ function Navbar()
             Kuch Mithha Ho Jaye  
             <div className="navbarlinks"> </div>
             <a href="/"> Home </a>
+            {/* added home */}
+            <a href="/About"> About </a>
+            <a href="/Contact"> Contact </a>
+
         </div>
     )
 }
