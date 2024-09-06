@@ -1,10 +1,14 @@
-.navbarlinks_con{
-    background-color: rgb(153, 94, 208);
-    color: azure;
+.navbar
+{
+    background-color: rgb(61, 61, 204);
+    display: block;
     margin: 0px;
-    padding: 20px;
+    padding: 5px;
+    text-align: center;
+    color: aliceblue;
 }
-.navnbar_con{
-    display: flex;
-
+.body
+{
+    margin: 0px;
+    padding: 0px;
 }
