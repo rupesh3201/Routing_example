@@ -1,6 +1,6 @@
 import React from "react";
 import "./Navbar.css"
-import"./index.css"
+
 
 function Navbar()
 {
@@ -14,8 +14,6 @@ function Navbar()
        <a href="/Contact" > Contact</a>
        </div>
        </div>
-
-       
     )
 }
 export default Navbar

@@ -24,3 +24,14 @@ code {
   width: 550px;
   margin-left: 30px;
 }
+.title
+{
+
+  margin-left: 30px;
+  background-color: orange;
+  padding: 5px;
+display: inline;
+  border-radius: 10px;
+ 
+  color: rgb(18, 61, 51);
+}
