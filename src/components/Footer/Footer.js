@@ -1,4 +1,5 @@
 import "./Fotter.css"
+// improted css
 import React  from "react";
 function Footter()
 {
